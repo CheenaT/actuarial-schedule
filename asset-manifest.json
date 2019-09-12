@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/312/static/css/main.af063eef.chunk.css",
-    "main.js": "/312/static/js/main.5eeef7c5.chunk.js",
-    "main.js.map": "/312/static/js/main.5eeef7c5.chunk.js.map",
-    "runtime~main.js": "/312/static/js/runtime~main.5c4e0e9c.js",
-    "runtime~main.js.map": "/312/static/js/runtime~main.5c4e0e9c.js.map",
-    "static/js/2.7a648115.chunk.js": "/312/static/js/2.7a648115.chunk.js",
-    "static/js/2.7a648115.chunk.js.map": "/312/static/js/2.7a648115.chunk.js.map",
-    "index.html": "/312/index.html",
-    "precache-manifest.25af453bcf2d9c7a79294745d9733153.js": "/312/precache-manifest.25af453bcf2d9c7a79294745d9733153.js",
-    "service-worker.js": "/312/service-worker.js",
-    "static/css/main.af063eef.chunk.css.map": "/312/static/css/main.af063eef.chunk.css.map",
-    "static/media/logo.svg": "/312/static/media/logo.5d5d9eef.svg"
+    "main.css": "/actuarial-schedule/static/css/main.af063eef.chunk.css",
+    "main.js": "/actuarial-schedule/static/js/main.1177c505.chunk.js",
+    "main.js.map": "/actuarial-schedule/static/js/main.1177c505.chunk.js.map",
+    "runtime~main.js": "/actuarial-schedule/static/js/runtime~main.7bc60168.js",
+    "runtime~main.js.map": "/actuarial-schedule/static/js/runtime~main.7bc60168.js.map",
+    "static/js/2.c8ab7d91.chunk.js": "/actuarial-schedule/static/js/2.c8ab7d91.chunk.js",
+    "static/js/2.c8ab7d91.chunk.js.map": "/actuarial-schedule/static/js/2.c8ab7d91.chunk.js.map",
+    "index.html": "/actuarial-schedule/index.html",
+    "precache-manifest.fb6825aadedb933d71751e805b9d8d9f.js": "/actuarial-schedule/precache-manifest.fb6825aadedb933d71751e805b9d8d9f.js",
+    "service-worker.js": "/actuarial-schedule/service-worker.js",
+    "static/css/main.af063eef.chunk.css.map": "/actuarial-schedule/static/css/main.af063eef.chunk.css.map",
+    "static/media/logo.svg": "/actuarial-schedule/static/media/logo.5d5d9eef.svg"
   }
 }
