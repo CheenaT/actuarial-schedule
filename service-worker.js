@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/actuarial-schedule/precache-manifest.ae70119005cca2ba1b9536657f6e5132.js"
+  "/actuarial-schedule/precache-manifest.ca49d8c27923ad1ee0afb356c8c593c7.js"
 );
 
 self.addEventListener('message', (event) => {
